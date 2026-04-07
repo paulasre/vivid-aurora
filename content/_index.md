@@ -20,7 +20,7 @@ sections:
       show_scroll_indicator: false
       subtitle: "Department of Mathematics, UC3M"
       cta_buttons:
-        - text: View My Work
+        - text: Projects
           url: "#projects"
           icon: arrow-down
         - text: Contact
@@ -28,7 +28,8 @@ sections:
           icon: envelope
     design:
       style: centered
-      avatar_shape: circle
+      avatar_shape: square
+      avatar_size: 200
       animations: true
       background:
         color:
