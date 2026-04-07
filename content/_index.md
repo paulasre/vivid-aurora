@@ -14,8 +14,8 @@ sections:
   - block: dev-hero
     id: hero
     content:
-      username: me
-      greeting: "Hi, I'm"
+      username: Complex Systems Interdisciplinary Group
+      greeting: "GISC"
       show_status: true
       show_scroll_indicator: true
       typewriter:
