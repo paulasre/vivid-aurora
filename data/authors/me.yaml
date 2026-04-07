@@ -2,17 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Complex Systems Interdisciplinary Group
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🔬"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: Investigation Group
+email: pilar.guerrero@uc3m.es
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  GISC-UC3M is a team of over 20 researchers actively engaged in a wide variety of research topics in statistical mechanics, nonlinear dynamics, theoretical biology, evolution, social and economic systems, and game theory. 
 
 affiliations:
   - name: Tech Corp
