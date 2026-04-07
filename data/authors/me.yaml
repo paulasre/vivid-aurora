@@ -6,10 +6,10 @@ name:
 postnominals: []
 status:
   icon: "🔬"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Investigation Group
+role: Department of Mathematics
 email: pilar.guerrero@uc3m.es
 bio: |
-  GISC-UC3M is a team of over 20 researchers actively engaged in a wide variety of research topics in statistical mechanics, nonlinear dynamics, theoretical biology, evolution, social and economic systems, and game theory. 
+ The Complex Systems Interdisciplinary Group (GISC) is a team of over 20 researchers actively engaged in a wide variety of research topics in statistical mechanics, nonlinear dynamics, theoretical biology, evolution, social and economic systems, and game theory. 
 
 affiliations:
   - name: Tech Corp
