@@ -42,21 +42,12 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Featured Projects"
+      title: "Members"
       subtitle: "A selection of my recent work"
       count: 0
       filters:
         folders:
           - projects
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
