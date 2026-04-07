@@ -17,23 +17,13 @@ sections:
       username: me
       greeting: "GISC"
       show_status: true
-      show_scroll_indicator: true
-      typewriter:
-        enable: true
-        prefix: "I build"
-        strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
-        type_speed: 70
-        delete_speed: 40
-        pause_time: 2500
+      show_scroll_indicator: false
+      subtitle: "Department of Mathematics, UC3M"
       cta_buttons:
         - text: View My Work
           url: "#projects"
           icon: arrow-down
-        - text: Get In Touch
+        - text: Contact
           url: "#contact"
           icon: envelope
     design:
