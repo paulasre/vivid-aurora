@@ -70,7 +70,7 @@ sections:
       #   text: "Browse All"  # Customize text
       #   link: "/work/"  # Custom URL
     design:
-      columns: 6
+      columns: 3
       background:
         color:
           light: "#ffffff"
