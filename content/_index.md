@@ -39,7 +39,7 @@ sections:
         padding: ["6rem", "0", "4rem", "0"]
 
 # Bloque miembros
-    - block: people
+ - block: people
     id: people
     content:
       title: Members
