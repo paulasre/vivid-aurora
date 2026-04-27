@@ -39,11 +39,11 @@ sections:
         padding: ["6rem", "0", "4rem", "0"]
   
   # Filterable Portfolio - Alpine.js powered project filtering
-  - block: portfolio
+  - block: people
     id: authors
     content:
       title: "Members"
-      count: 0
+      count: 2
       filters:
         folders:
           - authors
