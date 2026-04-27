@@ -40,7 +40,7 @@ sections:
 
   # Apartado miembros 
   - block: people
-    id: people
+    id: authors
     content:
       title: Members
       subtitle: Our research group
@@ -57,7 +57,7 @@ sections:
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
-    id: projects
+    id: authors
     content:
       title: "Members"
       count: 0
@@ -71,7 +71,7 @@ sections:
       #   text: "Browse All"  # Customize text
       #   link: "/work/"  # Custom URL
     design:
-      columns: 3
+      columns: 2
       background:
         color:
           light: "#ffffff"
