@@ -1,6 +1,4 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
----
 title: "Pilar Guerrero"
 role: "Principal Investigator"
 user_groups:
@@ -21,5 +19,3 @@ image:
   filename: avatarpilar.jpg
 ---
 
-Short bio here.
----
