@@ -37,10 +37,32 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
-  
+
+# Bloque miembros
+    - block: people
+    id: people
+    content:
+      title: Members
+      subtitle: Our research group
+      user_groups:
+        - Principal Investigators
+        - Researchers
+        - PhD Students
+        - Collaborators
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
+        
   # Filterable Portfolio - Alpine.js powered project filtering
-  - block: people
-    id: authors
+  - block: portfolio
+    id: proyects
     content:
       title: "Members"
       count: 2
