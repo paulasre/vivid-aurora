@@ -10,7 +10,7 @@ design:
   spacing: '0'
 
 sections:
-  # Developer Hero - Gradient background with name, role, social, and CTAs
+ # Developer Hero - Gradient background with name, role, social, and CTAs
   - block: dev-hero
     id: hero
     content:
@@ -39,7 +39,7 @@ sections:
         padding: ["6rem", "0", "4rem", "0"]
 
   # Apartado miembros 
-    - block: people
+  - block: people
     id: people
     content:
       title: Members
