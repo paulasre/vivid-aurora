@@ -18,7 +18,7 @@ social:
     link: "https://orcid.org/0000-0002-3292-3913"
 
 image:
-  filename: avatarpilar.jpg
+  filename: avatarfernando.jpg
 ---
 
 Short bio here.
