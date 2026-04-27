@@ -64,11 +64,11 @@ sections:
   - block: portfolio
     id: proyects
     content:
-      title: "Members"
-      count: 2
+      title: "Proyects"
+      count: 0
       filters:
         folders:
-          - authors
+          - proyects
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -76,7 +76,7 @@ sections:
       #   text: "Browse All"  # Customize text
       #   link: "/work/"  # Custom URL
     design:
-      columns: 2
+      columns: 3
       background:
         color:
           light: "#ffffff"
