@@ -37,13 +37,28 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
+
+  # Apartado miembros 
+    - block: people
+    id: people
+    content:
+      title: Members
+      subtitle: Our research group
+      user_groups:
+        - Principal Investigators
+        - Researchers
+        - PhD Students
+        - Collaborators
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
     id: projects
     content:
       title: "Members"
-      subtitle: "A selection of my recent work"
       count: 0
       filters:
         folders:
@@ -55,7 +70,7 @@ sections:
       #   text: "Browse All"  # Customize text
       #   link: "/work/"  # Custom URL
     design:
-      columns: 3
+      columns: 6
       background:
         color:
           light: "#ffffff"
