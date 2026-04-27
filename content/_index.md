@@ -49,6 +49,7 @@ sections:
         - Researchers
         - PhD Students
         - Collaborators
+        - Associate Professor
     design:
       show_interests: false
       show_role: true
