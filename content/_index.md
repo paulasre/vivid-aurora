@@ -37,23 +37,6 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
-
-  # Apartado miembros 
-  - block: people
-    id: authors
-    content:
-      title: Members
-      subtitle: Our research group
-      user_groups:
-        - Principal Investigators
-        - Researchers
-        - PhD Students
-        - Collaborators
-        - Associate Professor
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
@@ -63,7 +46,7 @@ sections:
       count: 0
       filters:
         folders:
-          - projects
+          - authors
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
