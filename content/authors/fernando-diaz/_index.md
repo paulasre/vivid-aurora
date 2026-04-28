@@ -1,6 +1,4 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
----
 title: "Fernando Díaz"
 role: "Associate Professor"
 user_groups:
@@ -21,5 +19,3 @@ image:
   filename: avatarfernando.jpg
 ---
 
-Short bio here.
----
