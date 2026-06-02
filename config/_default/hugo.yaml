@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://paulasre.github.io/vivid-aurora/'
+baseURL: 'https://gisc.github.io/vivid-aurora/'
 
 ############################
 ## LANGUAGE
